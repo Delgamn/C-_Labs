@@ -1,0 +1,14 @@
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\bin\Debug\net8.0\C#_Lab_3.exe
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\bin\Debug\net8.0\C#_Lab_3.deps.json
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\bin\Debug\net8.0\C#_Lab_3.runtimeconfig.json
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\bin\Debug\net8.0\C#_Lab_3.dll
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\bin\Debug\net8.0\C#_Lab_3.pdb
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\obj\Debug\net8.0\C#_Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\obj\Debug\net8.0\C#_Lab_3.AssemblyInfoInputs.cache
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\obj\Debug\net8.0\C#_Lab_3.AssemblyInfo.cs
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\obj\Debug\net8.0\C#_Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\obj\Debug\net8.0\C#_Lab_3.dll
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\obj\Debug\net8.0\refint\C#_Lab_3.dll
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\obj\Debug\net8.0\C#_Lab_3.pdb
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\obj\Debug\net8.0\C#_Lab_3.genruntimeconfig.cache
+C:\Users\svyat\source\repos\C#_Lab_3\C#_Lab_3\obj\Debug\net8.0\ref\C#_Lab_3.dll

@@ -1,0 +1,10 @@
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\bin\Debug\С#_Lab_0.exe.config
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\bin\Debug\С#_Lab_0.exe
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\bin\Debug\С#_Lab_0.pdb
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\obj\Debug\С#_Lab_0.csproj.AssemblyReference.cache
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\obj\Debug\С__Lab_0.Form1.resources
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\obj\Debug\С__Lab_0.Properties.Resources.resources
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\obj\Debug\С#_Lab_0.csproj.GenerateResource.cache
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\obj\Debug\С#_Lab_0.csproj.CoreCompileInputs.cache
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\obj\Debug\С#_Lab_0.exe
+C:\Users\svyat\source\repos\С#_Lab_0\С#_Lab_0\obj\Debug\С#_Lab_0.pdb

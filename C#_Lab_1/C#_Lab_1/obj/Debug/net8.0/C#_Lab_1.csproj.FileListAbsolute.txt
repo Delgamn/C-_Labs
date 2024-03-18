@@ -1,0 +1,14 @@
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\bin\Debug\net8.0\C#_Lab_1.exe
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\bin\Debug\net8.0\C#_Lab_1.deps.json
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\bin\Debug\net8.0\C#_Lab_1.runtimeconfig.json
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\bin\Debug\net8.0\C#_Lab_1.dll
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\bin\Debug\net8.0\C#_Lab_1.pdb
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\obj\Debug\net8.0\C#_Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\obj\Debug\net8.0\C#_Lab_1.AssemblyInfoInputs.cache
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\obj\Debug\net8.0\C#_Lab_1.AssemblyInfo.cs
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\obj\Debug\net8.0\C#_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\obj\Debug\net8.0\C#_Lab_1.dll
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\obj\Debug\net8.0\refint\C#_Lab_1.dll
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\obj\Debug\net8.0\C#_Lab_1.pdb
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\obj\Debug\net8.0\C#_Lab_1.genruntimeconfig.cache
+C:\Users\svyat\source\repos\C#_Lab_1\C#_Lab_1\obj\Debug\net8.0\ref\C#_Lab_1.dll
